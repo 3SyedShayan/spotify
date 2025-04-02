@@ -1,2 +1,2 @@
-# spotify
-Spotify Clone App
+# Spotify
+This is clone of Spotify! Enjoy the Source the CODE!
