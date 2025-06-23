@@ -1,2 +1,2 @@
 # Spotify
-This is clone of Spotify! Enjoy the Source the CODE!
+This project is put on pause, because of other projects, will soon start working on it and share my source code.
